@@ -1,7 +1,10 @@
 # program-design-110-2
-the codes of the program design class
+The codes of the program design class
 
-窩很菜OK!!
+這裡是程式設計(II)課程的程式碼專區
+
+有一點需要注意
+就是窩很菜OK!!
 
 # Bonus
 1 ok 
