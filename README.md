@@ -9,7 +9,7 @@ The codes of the program design class
 # Bonus
 1 ok 
 
-2 not ok 
+2 ok 
 
 3 ok 
 
