@@ -31,7 +31,7 @@ The codes of the program design class
 
 8 ok
 
-9.
+9 unsure
 
 ...
 # Homework
@@ -40,5 +40,7 @@ The codes of the program design class
 2 ok
 
 3 ok
+
+4 ok
 
 ...
