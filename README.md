@@ -3,9 +3,6 @@ The codes of the program design class
 
 這裡是程式設計(II)課程的程式碼專區
 
-有一點需要注意
-就是窩很菜OK!!
-
 # Bonus
 1 ok 
 
@@ -31,7 +28,9 @@ The codes of the program design class
 
 8 ok
 
-9 unsure
+9 ...
+
+10 ...
 
 ...
 # Homework
